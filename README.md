@@ -4,7 +4,7 @@ A responsive, elegant, and interactive single-page landing ecosystem tailored fo
 
 ## 🚀 Live Demo
 
-Check out the live application here: **[Live Demo Link](https://github.io)** _(Replace with your actual link)_
+Check out the live application here: **[Live Demo Link](https://mathewjebis.github.io/RESTAURANT/)** 
 
 ## 🛠️ Built With
 
@@ -56,7 +56,7 @@ To run this project locally, simply follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com
+   git clone https://github.com/mathewjebis/RESTAURANT.git
    ```
 
 2. **Navigate to the project folder:**
